@@ -12,9 +12,9 @@ files {
     'data/**/**/*.meta',
     'data/**/**/*.ytyp',
 -- Audio    
-    'audioconfig/*_amp.dat10.rel',
     'audioconfig/*_game.dat151.rel',
     'audioconfig/*_sounds.dat54.rel',
+    'audioconfig/*_amp.dat10.rel',
     'sfx/**/*.awc',
 -- Peds
     'stream/**/**/*.ydd',
@@ -34,9 +34,9 @@ data_file 'VEHICLE_VARIATION_FILE'               'data/**/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'                 'data/**/vehiclelayouts.meta'
 data_file 'CARCONTENTUNLOCKS_FILE'               'data/**/carcontentunlocks.meta'
 -- Audio
-data_file 'AUDIO_SYNTHDATA'                      'audioconfig/*_amp.dat10.rel'
 data_file 'AUDIO_GAMEDATA'                       'audioconfig/*_game.dat151.rel'
 data_file 'AUDIO_SOUNDDATA'                      'audioconfig/*_sounds.dat54.rel'
+data_file 'AUDIO_SYNTHDATA'                      'audioconfig/*_amp.dat10.rel'
 data_file 'AUDIO_WAVEPACK'                       'sfx/dlc_*'
 -- Peds
 data_file 'PED_METADATA_FILE'                    'data/**/peds.meta'
